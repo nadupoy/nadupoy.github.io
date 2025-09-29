@@ -16,8 +16,7 @@ timezone:
 
 title: Grace Sampao # the main title
 
-tagline:  # it will display as the subtitle
-  From Architecture to Algorithms | Building a future in Math, Art & AI
+tagline: From Architecture to Algorithms | Building a future in Math, Art & AI # it will display as the subtitle
   
 description: >- # used by seo meta and the atom feed
   
