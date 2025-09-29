@@ -35,7 +35,7 @@ My goal for this portfolio is simple: **to land my first professional role** as 
 
 Let's connect and build something intelligent together!
 
-*Find me on [GitHub](link-to-your-github) or [LinkedIn](link-to-your-linkedin).*
+*Find me on [GitHub](https://github.com/nadupoy) or [LinkedIn](https://www.linkedin.com/in/grace-sampao).*
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
