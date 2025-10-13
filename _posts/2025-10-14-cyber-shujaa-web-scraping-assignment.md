@@ -1,6 +1,6 @@
 ---
 title: Cyber Shujaa Web Scraping Assignment
-date: 2025-10-13
+date: 2025-10-14
 categories: [Web Scraping, Cyber Shujaa]
 tags: [cyber shujaa, web scraping, beautifulsoup, pandas, data science, data analysis, requests]
 ---
